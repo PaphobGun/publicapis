@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/publicapis/static/css/main.15d1ffa8.chunk.css",
+    "main.js": "/publicapis/static/js/main.c03cc521.chunk.js",
+    "main.js.map": "/publicapis/static/js/main.c03cc521.chunk.js.map",
+    "runtime-main.js": "/publicapis/static/js/runtime-main.57403796.js",
+    "runtime-main.js.map": "/publicapis/static/js/runtime-main.57403796.js.map",
+    "static/css/2.f3f01324.chunk.css": "/publicapis/static/css/2.f3f01324.chunk.css",
+    "static/js/2.9a4eae4d.chunk.js": "/publicapis/static/js/2.9a4eae4d.chunk.js",
+    "static/js/2.9a4eae4d.chunk.js.map": "/publicapis/static/js/2.9a4eae4d.chunk.js.map",
+    "static/js/3.fe38a619.chunk.js": "/publicapis/static/js/3.fe38a619.chunk.js",
+    "static/js/3.fe38a619.chunk.js.map": "/publicapis/static/js/3.fe38a619.chunk.js.map",
+    "index.html": "/publicapis/index.html",
+    "static/css/2.f3f01324.chunk.css.map": "/publicapis/static/css/2.f3f01324.chunk.css.map",
+    "static/css/main.15d1ffa8.chunk.css.map": "/publicapis/static/css/main.15d1ffa8.chunk.css.map",
+    "static/js/2.9a4eae4d.chunk.js.LICENSE.txt": "/publicapis/static/js/2.9a4eae4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57403796.js",
+    "static/css/2.f3f01324.chunk.css",
+    "static/js/2.9a4eae4d.chunk.js",
+    "static/css/main.15d1ffa8.chunk.css",
+    "static/js/main.c03cc521.chunk.js"
+  ]
+}

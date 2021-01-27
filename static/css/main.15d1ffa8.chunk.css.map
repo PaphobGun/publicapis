@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,KACE,QAAS,CACT,SAAU,CAEV,qBACF","file":"main.15d1ffa8.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n\nbody {\n  margin: 0;\n  padding: 0;\n\n  box-sizing: border-box;\n}\n"]}
