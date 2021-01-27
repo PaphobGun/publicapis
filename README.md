@@ -2,6 +2,6 @@ Vist Live Website: <a href="https://paphobgun.github.io/publicapis/" target="_bl
 
 Download the source code then run the following script
 
-npm run i
+npm i
 
 npm start
